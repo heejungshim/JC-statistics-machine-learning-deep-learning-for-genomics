@@ -8,7 +8,7 @@ We read papers covering topics related to graph neural networks. Feel free to em
 |September 11 2023 |  | Jiadong Mao|  
 |August 28 2023 |  | Steven Nguyen|  
 |August 14 2023 |  | Daniel Rawlinson|  
-|July 31 2023 |  | Sandeep Santhosh Kumar|  
+|July 31 2023 | [Temporal Graph Networks for Deep Learning on Dynamic Graphs, Rossi et al, 2020](https://arxiv.org/abs/2006.10637) | Sandeep Santhosh Kumar|  
 |July 17 2023 | [Modeling intercellular communication in tissues using spatial graphs of cells, Fischer et al, 2023](https://www.nature.com/articles/s41587-022-01467-z) | Yupei You|  
 |June 26 2023 | [Hierarchical Graph Representation Learning with Differentiable Pooling, Ying et al, 2019](https://arxiv.org/abs/1806.08804) | Heejung Shim | 
 |June 13 2023 | project presentation: GraphSAGE application to spatial data analysis | Ruqian Lyu |
