@@ -5,9 +5,9 @@ We read papers covering topics related to graph neural networks. Feel free to em
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
 |October 9 2023 |  | Ke He|  
-|September 11 2023 |  | Jiadong Mao|  
-|August 28 2023 |  | Steven Nguyen|  
-|August 14 2023 |  | Daniel Rawlinson|  
+|September 11 2023 | [Robust joint clustering of multi-omics single-cell data via multi-modal high-order neighborhood Laplacian matrix optimization, Jiang et al, 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10329495/) | Jiadong Mao|  
+|August 28 2023 | [HIERARCHICALLY-STRUCTUREDVARIATIONAL AUTOENCODERSFORLONGTEXTGENERATION, Shen et al, 2023](https://openreview.net/forum?id=Hk41X2AqtQ) | Steven Nguyen|  
+|August 14 2023 | [SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network, Hu et al,   2021](https://www.nature.com/articles/s41592-021-01255-8) | Daniel Rawlinson|  
 |July 31 2023 | [Temporal Graph Networks for Deep Learning on Dynamic Graphs, Rossi et al, 2020](https://arxiv.org/abs/2006.10637) | Sandeep Santhosh Kumar|  
 |July 17 2023 | [Modeling intercellular communication in tissues using spatial graphs of cells, Fischer et al, 2023](https://www.nature.com/articles/s41587-022-01467-z) | Yupei You|  
 |June 26 2023 | [Hierarchical Graph Representation Learning with Differentiable Pooling, Ying et al, 2019](https://arxiv.org/abs/1806.08804) | Heejung Shim | 
