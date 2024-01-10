@@ -4,7 +4,7 @@ We read papers covering topics related to graph neural networks. Feel free to em
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
-|October 9 2023 |  | Ke He|  
+|October 9 2023 | [A universal deep neural network for in-depth cleaning of single-cell RNA-Seq data, Li et al, 2022](https://www.nature.com/articles/s41467-022-29576-y) | Ke He|  
 |September 11 2023 | [Robust joint clustering of multi-omics single-cell data via multi-modal high-order neighborhood Laplacian matrix optimization, Jiang et al, 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10329495/) | Jiadong Mao|  
 |August 28 2023 | [HIERARCHICALLY-STRUCTUREDVARIATIONAL AUTOENCODERSFORLONGTEXTGENERATION, Shen et al, 2023](https://openreview.net/forum?id=Hk41X2AqtQ) | Steven Nguyen|  
 |August 14 2023 | [SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network, Hu et al,   2021](https://www.nature.com/articles/s41592-021-01255-8) | Daniel Rawlinson|  
