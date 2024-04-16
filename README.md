@@ -1,4 +1,4 @@
-We read papers covering topics related to machine learning, with an emphasis on deep learning, for genomics applications. Feel free to email me at <heejung.shim@unimelb.edu.au> if you'd like to join for discussion or you have any paper suggestions
+We discuss papers covering topics related to statistics and machine learning (with an emphasis on deep learning) for genomics applications. Feel free to email me at <heejung.shim@unimelb.edu.au> if you'd like to join for discussion or you have any paper suggestions
 
 * We meet fortnightly on Monday at noon in MIG ground floor meeting room unless otherwise stated.
 
