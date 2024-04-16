@@ -4,6 +4,13 @@ We discuss papers covering topics related to statistics and machine learning (wi
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|July 8 2024 |  | Yulin Wu| 
+|June 24 2024 |  | Yidi Deng| 
+|June 10 2024 |  | Jackson Kwok| 
+|May 27 2024 |  | Steven Nguyen| 
+|May 13 2024 |  | Sandeep Santhosh Kumar| 
+|April 29 2024 |  | Jiadong Mao| 
+|April 15 2024 | [Transfer learning enables predictions in network biology, Theodoris et al, 2023](https://www.nature.com/articles/s41586-023-06139-9) | Xiaochen Zhang|  
 |October 9 2023 | [A universal deep neural network for in-depth cleaning of single-cell RNA-Seq data, Li et al, 2022](https://www.nature.com/articles/s41467-022-29576-y) | Ke He|  
 |September 11 2023 | [Robust joint clustering of multi-omics single-cell data via multi-modal high-order neighborhood Laplacian matrix optimization, Jiang et al, 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10329495/) | Jiadong Mao|  
 |August 28 2023 | [HIERARCHICALLY-STRUCTUREDVARIATIONAL AUTOENCODERSFORLONGTEXTGENERATION, Shen et al, 2023](https://openreview.net/forum?id=Hk41X2AqtQ) | Steven Nguyen|  
