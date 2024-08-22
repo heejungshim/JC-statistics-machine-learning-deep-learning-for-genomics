@@ -4,11 +4,12 @@ We discuss papers covering topics related to statistics and machine learning (wi
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
-|July 8 2024 |  | Yulin Wu| 
-|June 24 2024 |  | Yidi Deng| 
-|June 10 2024 |  | Jackson Kwok| 
-|May 27 2024 |  | Steven Nguyen| 
-|May 13 2024 |  | Sandeep Santhosh Kumar| 
+| August 5 2024 | [Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST, Long et al, 2023](https://www.nature.com/articles/s41467-023-36796-3) | Yulin Wu |  
+|July 22 2024 | [Dissecting cell identity via network inference and in silico gene perturbation, Kamimoto et al, 2023](https://www.nature.com/articles/s41586-022-05688-9) | Yidi Deng| 
+|July 8 2024 | [KAN: Kolmogorov–Arnold Networks, Liu et al, 2024](https://arxiv.org/abs/2408.10205) | Jackson Kwok| 
+|June 24 2024 | [An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization, Chen et al, 2024](https://arxiv.org/abs/2404.07771) | Jiadong Mao|
+|May 27 2024 | [An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization, Chen et al, 2024](https://arxiv.org/abs/2404.07771) | Steven Nguyen| 
+|May 13 2024 |  [Identifying hierarchical cell states and gene signatures with deep exponential families for single-cell transcriptomics, Ferreira et al, 2024](https://www.biorxiv.org/content/10.1101/2022.10.15.512383v2) | Sandeep Santhosh Kumar| 
 |April 29 2024 | [GNTD: reconstructing spatial transcriptomes with graph-guided neural tensor decomposition informed by spatial and functional relations, Song et al, 2023](https://www.nature.com/articles/s41467-023-44017-0) | Jiadong Mao| 
 |April 15 2024 | [Transfer learning enables predictions in network biology, Theodoris et al, 2023](https://www.nature.com/articles/s41586-023-06139-9) | Xiaochen Zhang|  
 |October 9 2023 | [A universal deep neural network for in-depth cleaning of single-cell RNA-Seq data, Li et al, 2022](https://www.nature.com/articles/s41467-022-29576-y) | Ke He|  
