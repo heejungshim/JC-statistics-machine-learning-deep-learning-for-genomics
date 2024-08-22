@@ -4,6 +4,14 @@ We discuss papers covering topics related to statistics and machine learning (wi
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|December 9 2024 | | Yulin Wu|
+|November 25 2024 | | Yidi Deng|
+|November 11 2024 | | Jackson Kwok|
+|October 28 2024 | | Steven Nguyen|
+|October 14 2024 | |  Xiaochen Zhang|
+|September 30 2024 | | Sandeep Santhosh Kumar|
+|September 16 2024 | | Daniel Rawlinson|
+|September 2 2024 | | Jiadong Mao| 
 | August 5 2024 | [Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST, Long et al, 2023](https://www.nature.com/articles/s41467-023-36796-3) | Yulin Wu |  
 |July 22 2024 | [Dissecting cell identity via network inference and in silico gene perturbation, Kamimoto et al, 2023](https://www.nature.com/articles/s41586-022-05688-9) | Yidi Deng| 
 |July 8 2024 | [KAN: Kolmogorov–Arnold Networks, Liu et al, 2024](https://arxiv.org/abs/2408.10205) | Jackson Kwok| 
