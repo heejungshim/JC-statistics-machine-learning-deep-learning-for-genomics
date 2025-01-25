@@ -4,14 +4,10 @@ We discuss papers covering topics related to statistics and machine learning (wi
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
-|December 9 2024 | | Yulin Wu|
-|November 25 2024 | | Yidi Deng|
-|November 11 2024 | | Jackson Kwok|
-|October 28 2024 | | Steven Nguyen|
-|October 14 2024 | |  Xiaochen Zhang|
-|September 30 2024 | | Sandeep Santhosh Kumar|
-|September 16 2024 | | Daniel Rawlinson|
-|September 2 2024 | | Jiadong Mao| 
+|November 11 2024| [Benchmarking algorithms for single-cell multi-omics prediction and integration, Hu et al, 2024](https://www.nature.com/articles/s41592-024-02429-w)|  Xiaochen Zhang|
+|October 14 2024 | [scPML: pathway-based multi-view learning for cell type annotation from single-cell RNA-seq data, Du at al, 2023](https://www.nature.com/articles/s42003-023-05634-z)| Sandeep Santhosh Kumar|
+|September 16 2024 | [A multi-use deep learning method for CITE-seq and single-cell RNA-seq data integration with cell surface protein prediction and imputation, Lakkis et al, 2022](https://www.nature.com/articles/s42256-022-00545-w) | Daniel Rawlinson|
+|September 2 2024 | [Data Integration Via Analysis of Subspaces (DIVAS), Prothero et al, 2024](https://arxiv.org/abs/2212.00703) | Jiadong Mao| 
 | August 5 2024 | [Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST, Long et al, 2023](https://www.nature.com/articles/s41467-023-36796-3) | Yulin Wu |  
 |July 22 2024 | [Dissecting cell identity via network inference and in silico gene perturbation, Kamimoto et al, 2023](https://www.nature.com/articles/s41586-022-05688-9) | Yidi Deng| 
 |July 8 2024 | [KAN: Kolmogorov–Arnold Networks, Liu et al, 2024](https://arxiv.org/abs/2408.10205) | Jackson Kwok| 
